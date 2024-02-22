@@ -1,4 +1,5 @@
 # Welcome to streamlit
+by: Jesrel P. Pizzaro
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
