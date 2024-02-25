@@ -1,4 +1,4 @@
-import stremlit as st
+import streamlit as st
 
 st.header("Welcome to XOR Cipher!")
 st.writer("Whatis your name")
