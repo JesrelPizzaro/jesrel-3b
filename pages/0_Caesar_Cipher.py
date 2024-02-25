@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header("Welcome to XOR Cipher!")
+st.header("Welcome to Caesar Cipher!")
 st.write("What is your name")
 
 txt_FNAME = st.text_input("FIRST NAME")
