@@ -1,6 +1,6 @@
 # Welcome to streamlit
 
-by: Jesrel P. Pizzaro
+by: Jesrel Pizzaro
 
 [My streamlit APP](https://3b-gqv4gva7rj7.streamlit.app/)
 This is the app you get when you run `streamlit hello`, extracted as its own app.
