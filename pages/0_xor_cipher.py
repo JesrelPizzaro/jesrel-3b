@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.header("Welcome to XOR Cipher!")
-st.writer("Whatis your name")
+st.writer("What is your name")
 
 txt_FNAME = st.text_input("FIRST NAME")
 txt_LNAME = st.text_input("LAST NAME")
